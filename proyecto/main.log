@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.5)  28 OCT 2020 20:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.8.5)  29 OCT 2020 13:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -612,7 +612,8 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (main.aux)
+) (main.aux
+(secciones/1-portada.aux) (secciones/2-requerimientos.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
@@ -633,6 +634,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
 LaTeX Font Info:    ... okay on input line 21.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
 1.
+
 (C:\Users\Yo\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -716,7 +718,7 @@ LaTeX Info: Redefining \nameref on input line 21.
 
 
 (secciones/1-portada.tex
-<img/logo.png, id=6, 500.03027pt x 500.03027pt>
+<img/logo.png, id=30, 500.03027pt x 500.03027pt>
 File: img/logo.png Graphic file (type png)
 <use img/logo.png>
 Package pdftex.def Info: img/logo.png  used on input line 11.
@@ -724,7 +726,33 @@ Package pdftex.def Info: img/logo.png  used on input line 11.
  [1
 
 
-{C:/Users/Yo/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/logo.png>])
+{C:/Users/Yo/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/logo.png>]) 
+(main.toc
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+.
+
+(C:\Users\Yo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+2.
+
+(C:\Users\Yo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+2.
+
+(C:\Users\Yo\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+)
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
@@ -756,23 +784,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
  (main.aux (secciones/1-portada.aux) (secciones/2-requerimientos.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  F08A17B6EF10A120662BF43FDF43A069;380.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F08A17B6EF10A120662BF43FDF43A069;380.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 17694 strings out of 480790
- 340035 string characters out of 2898709
- 678044 words of memory out of 3000000
- 33359 multiletter control sequences out of 15000+200000
- 563423 words of font info for 35 fonts, out of 3000000 for 9000
+ 17755 strings out of 480790
+ 341443 string characters out of 2898709
+ 679484 words of memory out of 3000000
+ 33396 multiletter control sequences out of 15000+200000
+ 574446 words of font info for 45 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,6n,75p,925b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Yo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}<C:/U
@@ -780,9 +801,9 @@ sers/Yo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/User
 s/Yo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Yo
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Yo/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on main.pdf (3 pages, 110617 bytes).
+Output written on main.pdf (3 pages, 114275 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
